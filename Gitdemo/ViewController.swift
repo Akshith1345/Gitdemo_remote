@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         view.addSubview(costumeLable)
         costumeLable.backgroundColor = .white
         costumeLable.textAlignment = .center
+        print("changes are made")
         
     }
 
